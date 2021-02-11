@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> My name is Mithilesh Kumar and I'm a UI developer </p>
+<p> My name is Mithilesh Kumar and I'm a UI developer. </p>
 
 - 🔭 I’m currently working on angular
 - 🌱 I’m currently learning react
