@@ -1,4 +1,4 @@
-### Hi there 👋 ! 👋, I'm Mithilesh Kumar
+### Hi there 👋, I'm Mithilesh Kumar
 
 - 🔭 I’m currently working on angular
 - 🌱 I’m currently learning react
